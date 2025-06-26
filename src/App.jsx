@@ -25,15 +25,16 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Abhijith VS",
-  title: "Web Designer & Content Creator",
-  email: "alex@example.com",
-  gitHub: "microsoft",
-  instagram: "microsoft",
-  linkedIn: "satyanadella",
+  title: "Data Science Student & Aspiring Data Scientist",
+  email: "vsabhijith@gmail.com",
+  gitHub: "VS-Abhijith",
+  instagram: "_funny_punk_",
+  linkedIn: "www.linkedin.com/in/vsabhijith",
   medium: "",
-  twitter: "microsoft",
-  youTube: "Code",
+  twitter: "",
+  youTube: "",
 };
+
 
 const primaryColor = "#4E567E";
 const secondaryColor = "#D2F1E4";
